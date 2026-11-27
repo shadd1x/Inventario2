@@ -1,0 +1,4449 @@
+{
+  "XBOX": [
+    {
+      "cantidad": 1,
+      "nombre": "A WAY OUT",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ANGRY BIRDS",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ASSASSINS CREED ORIGINS",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ASSASSINS CREED SYNDICATE",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BATLLEGROUNDS",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CARS 3",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FARCRY 6",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FIFA 22",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FINAL FANTASY TYPE O",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "FOOTBALL 2020",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "JUST DANCE",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MEGAMAN 1 Y 2",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "METAL GEAR SOLID  V",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MORTAL KOMBAT XL",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NBA 2KK 22",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PARADISE REMASTERED",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PES 2018",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RESIDENT EVIL  BIOHAZARD GOLD EDITION",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SAINTS ROW  PRIMERA EDITION",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STAR WARS BATTLEFRONT 2",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "UFC 3",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "VILLAGE",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    }
+  ],
+  "NINTENDO 2": [
+    {
+      "cantidad": 0,
+      "nombre": "ANIMAL CROSSING",
+      "precio_unitario": 58.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ASSASSINS SHADOW",
+      "precio_unitario": 58.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CALL OF DUTY MODERN WARFARE 4",
+      "precio_unitario": 53.0,
+      "precio_total": 106.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CYBERPUNK 2077",
+      "precio_unitario": 62.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DONKEY KONG BANANZA",
+      "precio_unitario": 69.0,
+      "precio_total": 69.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DRAGON BALL SPARKING ZERO",
+      "precio_unitario": 51.0,
+      "precio_total": 51.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "ELDEN RING TAMISHED EDITION",
+      "precio_unitario": 70.0,
+      "precio_total": 280.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "FIRE EMBLEM FORTUNES WEAVE",
+      "precio_unitario": 79.0,
+      "precio_total": 237.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "FATAL FRAME 2",
+      "precio_unitario": 53.0,
+      "precio_total": 265.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "FC 26",
+      "precio_unitario": 62.0,
+      "precio_total": 248.0
+    },
+    {
+      "cantidad": 7,
+      "nombre": "FC 27",
+      "precio_unitario": 63.0,
+      "precio_total": 441.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FINAL FANTASY VII INTEGRADE",
+      "precio_unitario": 39.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HADES 2",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HITMAN  SIGNATURE EDITION",
+      "precio_unitario": 60.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "HOLLOW KNIGHT SILK SONG",
+      "precio_unitario": 46.0,
+      "precio_total": 92.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "HOGWARTS LEGACY EU",
+      "precio_unitario": 52.0,
+      "precio_total": 104.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "HYRULE WARRIOS AGE OF IMPRISONMENT",
+      "precio_unitario": 72.0,
+      "precio_total": 432.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "KIRBY AIR RIDERS",
+      "precio_unitario": 72.0,
+      "precio_total": 216.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "KIRBY AND THE FORGOTTENLAND + STAR - CROSSED WORLD",
+      "precio_unitario": 74.0,
+      "precio_total": 148.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LEGO BATMAN",
+      "precio_unitario": 60.0,
+      "precio_total": 120.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LIES OF P",
+      "precio_unitario": 60.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LITLE NIGHTMARES 3",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MARIO JAMBOREE + TV",
+      "precio_unitario": 67.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MARIO KART WOLD",
+      "precio_unitario": 74.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARIO TENNIS FEVER",
+      "precio_unitario": 69.0,
+      "precio_total": 138.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MARIO WONDER + MEETUP",
+      "precio_unitario": 70.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "METAL GEAR SOLID MASTER COLLECTION VOL. 2",
+      "precio_unitario": 42.0,
+      "precio_total": 210.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "METROID 4 PRIME BEYOND",
+      "precio_unitario": 74.0,
+      "precio_total": 148.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MORTAL KOMBAT LEGACY KOLLECTION DELUXE EDICION",
+      "precio_unitario": 49.0,
+      "precio_total": 49.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MOUSE PI FOR HIRE",
+      "precio_unitario": 39.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "OCTOPATH TRAVELER",
+      "precio_unitario": 46.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "PAC-MAN 2",
+      "precio_unitario": 26.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PERSONA 3 ROLOAD",
+      "precio_unitario": 58.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 12,
+      "nombre": "POKEMON LEGENDA ZA",
+      "precio_unitario": 65.0,
+      "precio_total": 780.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "POKEMON POKOPIA",
+      "precio_unitario": 73.0,
+      "precio_total": 73.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STELLAR BLADE COMPLETE",
+      "precio_unitario": 54.0,
+      "precio_total": 54.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "STELLAR BLADE COMPLETE (TAPA METALICA)",
+      "precio_unitario": 69.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "PRAGMATA",
+      "precio_unitario": 53.0,
+      "precio_total": 106.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "REANIMAL",
+      "precio_unitario": 42.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "RESIDENT EVIL REQUIEM",
+      "precio_unitario": 65.0,
+      "precio_total": 195.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "SPLATOON RAIDERS",
+      "precio_unitario": 64.0,
+      "precio_total": 192.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC RACING CROSSWORLD",
+      "precio_unitario": 60.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "SONIC SHADOW GENERATION",
+      "precio_unitario": 46.0,
+      "precio_total": 184.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SPLIT FICTION",
+      "precio_unitario": 48.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SPONGEBOB SQUAREPANT TITAN OF THE TIDE",
+      "precio_unitario": 38.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STAR FOX",
+      "precio_unitario": 68.0,
+      "precio_total": 136.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STARWARS OUTLAWS",
+      "precio_unitario": 53.0,
+      "precio_total": 53.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "STREET FIGHTER 6 EDITION",
+      "precio_unitario": 65.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STREET FIGHTER 6 YEAR 1-2 FIDHTERS EDITION",
+      "precio_unitario": 51.0,
+      "precio_total": 51.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TOY STORY COMPLETE DOUBLE",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "W2K 26",
+      "precio_unitario": 64.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "YAKUSA 0 DIRECTOR CUT",
+      "precio_unitario": 39.0,
+      "precio_total": 39.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "YAKUSA KIWAMI 2",
+      "precio_unitario": 36.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "YAKUZA KIWAMI",
+      "precio_unitario": 36.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "ZELDA BREATH OF THE WILD",
+      "precio_unitario": 64.0,
+      "precio_total": 128.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ZELDA TEARS OF THE KIMDOM",
+      "precio_unitario": 67.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 10,
+      "nombre": "ZELDA OCARINA OF TIME",
+      "precio_unitario": 86.0,
+      "precio_total": 860.0
+    }
+  ],
+  "NINTENDO": [
+    {
+      "cantidad": 3,
+      "nombre": "1-2 SWITCH",
+      "precio_unitario": 40.0,
+      "precio_total": 120.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "ANIMAL CROSSIG NEW HORIZON",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ARMS",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "BATMAN ARKHAM TRILOGY",
+      "precio_unitario": 48.0,
+      "precio_total": 144.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BAYONETTA 3",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "BAYONNETTA ORIGINS CERESA",
+      "precio_unitario": 40.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BIOSHOCK THE COLLECTION",
+      "precio_unitario": 29.0,
+      "precio_total": 29.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BLAZBLUE CROSS TAG BATTLE",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BLOODSTAINED RITUAL OF THE NIGHT",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BOMB RUSH CYBERPUNK",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CADENCE OF HYRULE : CRYPT OF THE NECRODANCER FEATURING THE LEGEND OF ZELDA",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CAPCOM FIGHTING COLLECCION 2",
+      "precio_unitario": 38.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CAPITAIN TOAD",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CAPITAN TSUBASA",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CAPITAN TSUBASA II WORLD FIGHTEERS",
+      "precio_unitario": 53.0,
+      "precio_total": 106.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CONTRA ROGUE CORPS",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CRASH BADICOOT 4",
+      "precio_unitario": 29.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CRASH BANDICOOT TRIOLOGY",
+      "precio_unitario": 29.0,
+      "precio_total": 29.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "CRASH TEAN RACINGS NITRO FUELED",
+      "precio_unitario": 27.0,
+      "precio_total": 135.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "CRYSIS REMASTERED",
+      "precio_unitario": 25.0,
+      "precio_total": 75.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CUPHEAD",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEMON SLAYER 2",
+      "precio_unitario": 53.0,
+      "precio_total": 53.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DETECTIVE PIKACHU RETURNS",
+      "precio_unitario": 40.0,
+      "precio_total": 80.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEVIL MAY CRY TRIPE PACK",
+      "precio_unitario": 32.0,
+      "precio_total": 32.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DISGAEA 5 COMPLETE",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DONKEY KONG  RETURNAL HD",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "DOOM SLAYER COLLECION",
+      "precio_unitario": 44.0,
+      "precio_total": 220.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DRAGON BALL FIGHTER Z",
+      "precio_unitario": 24.0,
+      "precio_total": 48.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DRAGON BALL KAKAROT",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "DRAGON BALL SPARKIN ZERO",
+      "precio_unitario": 46.0,
+      "precio_total": 138.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DRAGON BALL XENOVER 2",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DRAGON BALL Z: KAKAROT + A NEW POWER AWAKENS SET - DAIMA",
+      "precio_unitario": 37.0,
+      "precio_total": 37.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DRAGON QUEST Xl S : ECHOES OF AN ALUSIVE AGE  -DEFINITIVE EDICITION",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FC 25",
+      "precio_unitario": 33.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FC 26",
+      "precio_unitario": 39.0,
+      "precio_total": 78.0
+    },
+    {
+      "cantidad": 7,
+      "nombre": "FC 27",
+      "precio_unitario": 57.0,
+      "precio_total": 399.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FINAL FANTASY I - II - III - IV - V - VI COLLECTION",
+      "precio_unitario": 52.0,
+      "precio_total": 52.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FINAL FANTASY TACTICS THE IVALICE CHRONICLES",
+      "precio_unitario": 45.0,
+      "precio_total": 90.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FIRE EMBLEM ENGAGE",
+      "precio_unitario": 48.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 9,
+      "nombre": "FIRE EMBLEM WARRIOS : THREE HOPES",
+      "precio_unitario": 36.0,
+      "precio_total": 324.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FITNES BOXING",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FIVE NIGHTS AT FREDDYS CORE COLLECTION",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "FIVE NIGHTS AT FREDDYS INTO THE PIT",
+      "precio_unitario": 26.0,
+      "precio_total": 78.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FIVE NIGHTS AT FREDDYS SECURITY BREACH",
+      "precio_unitario": 34.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FORNITE LEGENDS MENTA",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FRIDAY THE 13  THE GAME",
+      "precio_unitario": 42.0,
+      "precio_total": 42.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "GANS BEASTS",
+      "precio_unitario": 26.0,
+      "precio_total": 26.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "HARVES MOON LIGTH OF HOPE SPECIAL EDICION",
+      "precio_unitario": 42.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "HELO KITY",
+      "precio_unitario": 29.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HOLLOW KNIGTHT",
+      "precio_unitario": 33.0,
+      "precio_total": 33.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "ICE AGE ERA DE HIELO SCRATS NUTY ADVENTURE",
+      "precio_unitario": 29.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 2,
+      "nombre": "IT TAKES TWO",
+      "precio_unitario": 34.0,
+      "precio_total": 68.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2022",
+      "precio_unitario": 24.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2023 EDITION",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "JUST DANCE 2024 EDITION",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2025 EDITION",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2026 EDITION",
+      "precio_unitario": 33.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "KIRBI LA TIERA OLVIDADA",
+      "precio_unitario": 43.0,
+      "precio_total": 172.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "KIRBY STAR AKIIES",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "KIRBYS RETUR DREAM LAND DELUXE",
+      "precio_unitario": 36.0,
+      "precio_total": 216.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO CITY UNDERCOVER",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO MOVIE  2 VIDEO GAME",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "LEGO NINJAGO",
+      "precio_unitario": 35.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LEGO STAR WARS THE SAGA SKYWALKER SAGA",
+      "precio_unitario": 25.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "LEGO THE INCREDIBLE",
+      "precio_unitario": 24.0,
+      "precio_total": 72.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LITTE NIGHTMARES 2",
+      "precio_unitario": 28.0,
+      "precio_total": 56.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LITTE NIGHTMARES COMPLETA EDITION",
+      "precio_unitario": 36.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LUIGI MANSION 3",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "LUIGIS MANSION 2",
+      "precio_unitario": 44.0,
+      "precio_total": 264.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARIO 3D WORLD + BOWSERS FURY",
+      "precio_unitario": 43.0,
+      "precio_total": 86.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARIO BROS U DELUXE",
+      "precio_unitario": 43.0,
+      "precio_total": 86.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MARIO BROS WONDER",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARIO GALAXY 1 Y2",
+      "precio_unitario": 49.0,
+      "precio_total": 98.0
+    },
+    {
+      "cantidad": 8,
+      "nombre": "MARIO GOLF  SUPER RUSH",
+      "precio_unitario": 36.0,
+      "precio_total": 288.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MARIO KART 8",
+      "precio_unitario": 44.0,
+      "precio_total": 132.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MARIO LUIGUI  BROTHERSHIP",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARIO MAKER 2",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MARIO ODISSEY",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MARIO PAPER  THE THOUSAND YEAR DOOR",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARIO PARTY JAMBOREE",
+      "precio_unitario": 45.0,
+      "precio_total": 90.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MARIO RABBIDS  SPARKS OF HOPE",
+      "precio_unitario": 34.0,
+      "precio_total": 102.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MARIO RABBIDS KINGDON BATTLE",
+      "precio_unitario": 28.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MARIO RPG",
+      "precio_unitario": 44.0,
+      "precio_total": 132.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MARIO SMASH BROSH ULTIMATE",
+      "precio_unitario": 43.0,
+      "precio_total": 129.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MARIO SONIC OLIMPIADAS GAMES TOKYO 2020",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARIO STRIKERS",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MARIO SUPER ESTAR",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 15,
+      "nombre": "MARIO VS DONKEY  KONG",
+      "precio_unitario": 44.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MARVEL CAMCOP COLECCIÓN  ARCADE",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MEGAMAN 1 Y 2",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "METAL GEAR SOLID MASTER COLLECTION VOL. 1",
+      "precio_unitario": 32.0,
+      "precio_total": 64.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "METAL SLUG TACTIGS",
+      "precio_unitario": 48.0,
+      "precio_total": 48.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "METRO PRIME 4 BEYOND",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "METRO REDUX",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "METROID DREAD",
+      "precio_unitario": 50.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MINECRAFT",
+      "precio_unitario": 30.0,
+      "precio_total": 90.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MORTAL KOMBAT 1",
+      "precio_unitario": 37.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MORTAL KOMBAT 11",
+      "precio_unitario": 27.0,
+      "precio_total": 27.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MOSTER HUNTER GENERATION ULTIMATE",
+      "precio_unitario": 26.0,
+      "precio_total": 78.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MXGP 3 THE OFICIAL MOTOCROSS VIDEOGAME",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NARUTO SHIPPUDEN: STORM TRILOGY",
+      "precio_unitario": 39.0,
+      "precio_total": 39.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NBA 2K 18",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NBA 2K 20",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NBA 2K19",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NIER AUTOMATA",
+      "precio_unitario": 37.0,
+      "precio_total": 37.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ORI THE COLLECTION",
+      "precio_unitario": 33.0,
+      "precio_total": 33.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "OVERCOOKED 2",
+      "precio_unitario": 30.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "OVERCOOKED SPECIAL EDITICION + OVERCOOKER 2",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "PAYDAY 2",
+      "precio_unitario": 43.0,
+      "precio_total": 86.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PEPPA PIG MY FRIEND",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PIKMIN 1Y2",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PIKMIN 3",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PIKMIN4",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "PLANTAS VZ ZOMBIES BATLLE FOR NIEGHBORVILLE",
+      "precio_unitario": 32.0,
+      "precio_total": 64.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "POKEMON ARCEUS",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 8,
+      "nombre": "POKEMON DIAMANTE",
+      "precio_unitario": 38.0,
+      "precio_total": 304.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "POKEMON EEVEE",
+      "precio_unitario": 45.0,
+      "precio_total": 90.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "POKEMON ESCARLATA",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "POKEMON ESCUDO SHIELD",
+      "precio_unitario": 43.0,
+      "precio_total": 172.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "POKEMON ESPADA SWORD",
+      "precio_unitario": 44.0,
+      "precio_total": 176.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "POKEMON LEGENDA Z A",
+      "precio_unitario": 41.0,
+      "precio_total": 41.0
+    },
+    {
+      "cantidad": 20,
+      "nombre": "POKEMON SHINING PEARL",
+      "precio_unitario": 38.0,
+      "precio_total": 760.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "POKEMON SNAP",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "POKEMON VIOLETA",
+      "precio_unitario": 43.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 2,
+      "nombre": "POPPY PLAYTIME TRIPLE PACK",
+      "precio_unitario": 39.0,
+      "precio_total": 78.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PRINCESA PEACHT",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "RAYMAN LEGENDS DEFINITIVE EDITION",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RED DEAD REDEMPTION 1",
+      "precio_unitario": 30.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "RESIDENT EVIL ORIGIN  COLLECTION",
+      "precio_unitario": 31.0,
+      "precio_total": 31.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "RESIDENT EVIL TRIPLE PACK",
+      "precio_unitario": 37.0,
+      "precio_total": 37.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SONIC COLORS ULTIMATE",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SONIC FORCES",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SONIC MANIA",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC RACING",
+      "precio_unitario": 24.0,
+      "precio_total": 24.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC RACING CROSSWORLDS",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SONIC SUPERSTARS",
+      "precio_unitario": 30.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SONIC X SHADOW GENERATIONS",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SOUTH PARK SNOW DAY",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SOUTH PARK THE FRACTURED BUT WHOLE",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SPLATOON 2",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 10,
+      "nombre": "SPLATOON 3",
+      "precio_unitario": 42.0,
+      "precio_total": 420.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SPONGEBOB KRUSTY COOK OFF EXTRA KRUSTY EDITION BOB SPONJA",
+      "precio_unitario": 27.0,
+      "precio_total": 54.0
+    },
+    {
+      "cantidad": 8,
+      "nombre": "SPYRO REIGNITED TRILOGY",
+      "precio_unitario": 29.0,
+      "precio_total": 232.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "STREET FIGHTER 30 ANIVERSARY COLLECTION",
+      "precio_unitario": 25.0,
+      "precio_total": 75.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "STREET OF RAGE 4 ANNIVERSARY EDITION",
+      "precio_unitario": 25.0,
+      "precio_total": 100.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SUPER BOMBERMAN R",
+      "precio_unitario": 23.0,
+      "precio_total": 46.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "SUPER BOMBERMAN R R2",
+      "precio_unitario": 30.0,
+      "precio_total": 150.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SUSHI STRIKER THE WAY OF SUSHIDO",
+      "precio_unitario": 40.0,
+      "precio_total": 80.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SWITCH SPORT",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "THE HOUSE OF THE DEAD REMAKE",
+      "precio_unitario": 43.0,
+      "precio_total": 215.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "THEATRHYTHM FINAL BAR LINE",
+      "precio_unitario": 29.0,
+      "precio_total": 145.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "TOMB RAIDER REMASTER 1,2,3",
+      "precio_unitario": 30.0,
+      "precio_total": 90.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TOMODACHI LIFE",
+      "precio_unitario": 46.0,
+      "precio_total": 46.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "TOUHOU GENSO WANDERER RELOADED",
+      "precio_unitario": 40.0,
+      "precio_total": 120.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "WOLFENTEIN YOUNGBLOOD DELUXE EDITICION",
+      "precio_unitario": 40.0,
+      "precio_total": 120.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "XENOBLADE CHRONICLES 2",
+      "precio_unitario": 40.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "XENOBLADE CHRONICLES 3",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "XENOBLADE CHRONICLES DEFINITIVE EDITION",
+      "precio_unitario": 44.0,
+      "precio_total": 264.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "YONDER THE CLOUD CATCHER CHRONIBLADE",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "YOSHIS CRAFTED WORLD",
+      "precio_unitario": 44.0,
+      "precio_total": 132.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "ZELDA BREATHE  OF THRE WILD",
+      "precio_unitario": 44.0,
+      "precio_total": 176.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "ZELDA ECHOES OF WISDOM",
+      "precio_unitario": 44.0,
+      "precio_total": 176.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ZELDA LINKS AWAKENMG",
+      "precio_unitario": 44.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 9,
+      "nombre": "ZELDA SKYWARD SWORD HD",
+      "precio_unitario": 44.0,
+      "precio_total": 396.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "ZELDA TEARS OF THE KINGDOM",
+      "precio_unitario": 46.0,
+      "precio_total": 184.0
+    }
+  ],
+  "PS4": [
+    {
+      "cantidad": 1,
+      "nombre": "ACE CONBAT 7",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "AGONY",
+      "precio_unitario": 40.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "ALADDIN EL REY LEON",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ALAN WAKE REMAS TER",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ALEKHINES GUN",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "ANTHEM",
+      "precio_unitario": 17.0,
+      "precio_total": 85.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "APEX LEGENDS BLOOHOND  NARANAJA",
+      "precio_unitario": 10.0,
+      "precio_total": 10.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "APEX LEGENDS rojo",
+      "precio_unitario": 15.0,
+      "precio_total": 15.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "AREALM REBORN FINAL FANTASY XIV",
+      "precio_unitario": 15.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ARK SUVIVIAL EVOLED",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "ASSASSINS CREDD ORIGINS",
+      "precio_unitario": 18.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ASSASSINS CREDD THE EZIO COLECCIÓN",
+      "precio_unitario": 17.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ASSASSINS CREED 3 REMASTER",
+      "precio_unitario": 16.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ASSASSINS CREED 4",
+      "precio_unitario": 16.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ASSASSINS CREED BLACK FLAG",
+      "precio_unitario": 18.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ASSASSINS CREED ODYSSED Y ORIGEN",
+      "precio_unitario": 18.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "ASSASSINS CREED ODYSSEY",
+      "precio_unitario": 18.0,
+      "precio_total": 72.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "ASSASSINS CREED UNITY",
+      "precio_unitario": 17.0,
+      "precio_total": 51.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BAILA LATINO",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 11,
+      "nombre": "BATMAN  THE ENEMY WITHIN",
+      "precio_unitario": 23.0,
+      "precio_total": 253.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "BATMAN ARKHAM COLLECITON",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "BATMAN ARKHAM KNIGHT",
+      "precio_unitario": 18.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "BATMAN VR",
+      "precio_unitario": 22.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BATTLE BIKINI BOTTOM BOB SPONJA",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "BATTLEBORN",
+      "precio_unitario": 10.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 11,
+      "nombre": "BATTLEFILD  V NOW INCLUDES FIRESTORM",
+      "precio_unitario": 20.0,
+      "precio_total": 220.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BATTLEFILD 2042",
+      "precio_unitario": 27.0,
+      "precio_total": 27.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "BATTLEFILD V",
+      "precio_unitario": 18.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "BATTLEFILD V  DELUXE EDICION",
+      "precio_unitario": 23.0,
+      "precio_total": 92.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BATTLTLEDIELD  4",
+      "precio_unitario": 26.0,
+      "precio_total": 26.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "BEN 10",
+      "precio_unitario": 17.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "BLAZBLUE  CROSS TAG BATTLE",
+      "precio_unitario": 35.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "BLOODBORNE",
+      "precio_unitario": 17.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "BLOODBORNE GAME  EDITION",
+      "precio_unitario": 26.0,
+      "precio_total": 52.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BLOODSTAINES",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BORDERLANDS  THE COLECCIÓN",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "BORDERLANDS 3",
+      "precio_unitario": 21.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CALL OD DUTY WW 2 EU",
+      "precio_unitario": 24.0,
+      "precio_total": 24.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CALL OF DUTY BLACK OPS 3",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CALL OF DUTY BLACK OPS 4",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CALL OF DUTY BLACK OPS 6",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CALL OF DUTY BLAXK OPS 7",
+      "precio_unitario": 31.0,
+      "precio_total": 62.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CALL OF DUTY COL WAR",
+      "precio_unitario": 30.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "CALL OF DUTY MODER WARFARE 2",
+      "precio_unitario": 26.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CALL OF DUTY MODER WARFARE 3",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CALL OF DUTY VANGUARD ING",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "CIVILAZATION VI",
+      "precio_unitario": 35.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CONTRA ROGUE CORPS",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "CRASH 4 BANDICOOT",
+      "precio_unitario": 27.0,
+      "precio_total": 135.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "CRASH BANDICOOT TRILOGY",
+      "precio_unitario": 28.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "CRASH TEAM RASING CTR",
+      "precio_unitario": 28.0,
+      "precio_total": 140.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CUPHEAD",
+      "precio_unitario": 24.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "DAR SOLUS TRIOLOGIA",
+      "precio_unitario": 35.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DARK SOLUS 3",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "DARK SOLUS REMASTER",
+      "precio_unitario": 21.0,
+      "precio_total": 63.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DAYS GONE",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 41,
+      "nombre": "DEAD OR ALIVE 6",
+      "precio_unitario": 20.0,
+      "precio_total": 820.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEAD RISING 2",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEATH MARK",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEATH STRANDING",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DESTINY 2",
+      "precio_unitario": 10.0,
+      "precio_total": 10.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DESTINY LEGENDARY EDICION",
+      "precio_unitario": 12.0,
+      "precio_total": 12.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DETROIT",
+      "precio_unitario": 16.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DEVIL MAY CRY HD COLLECTION",
+      "precio_unitario": 21.0,
+      "precio_total": 42.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "DIABLO 3 ETERNAL COLLECCION",
+      "precio_unitario": 22.0,
+      "precio_total": 110.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DIABLO 4",
+      "precio_unitario": 32.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DIGIMONTORY HACKERS MEMORY",
+      "precio_unitario": 18.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 9,
+      "nombre": "DISHONRED 2",
+      "precio_unitario": 18.0,
+      "precio_total": 162.0
+    },
+    {
+      "cantidad": 7,
+      "nombre": "DISSIDIA  FINAL FANTISI",
+      "precio_unitario": 18.0,
+      "precio_total": 126.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DOOM 3 VR EDICION",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "DOOM ETERNAL",
+      "precio_unitario": 28.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 26,
+      "nombre": "DRAGON  DAWN OF NEW RIDERS",
+      "precio_unitario": 25.0,
+      "precio_total": 650.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DRAGON BALL  XENOVERSE 2",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DRAGON BALL FIGTER Z",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DRAGON BALL KAKAROT",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "DRAGON QUEST",
+      "precio_unitario": 35.0,
+      "precio_total": 175.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DYING LIGHT  ANIVERSARIO EDICION",
+      "precio_unitario": 38.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "DYING LIGHT 2 HUMAN",
+      "precio_unitario": 19.0,
+      "precio_total": 57.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "ELDEN RING NEIGHTREIGN EU",
+      "precio_unitario": 41.0,
+      "precio_total": 123.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ELDEN RING NORMAL AMER.",
+      "precio_unitario": 27.0,
+      "precio_total": 27.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ELDEN RING NORMAL EU.",
+      "precio_unitario": 31.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FALLOUT 76",
+      "precio_unitario": 28.0,
+      "precio_total": 56.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FARCRY 4",
+      "precio_unitario": 15.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FARCRY 5",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 33,
+      "nombre": "FARCRY NEW DAWN",
+      "precio_unitario": 17.0,
+      "precio_total": 561.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FARCRY PRIMAL",
+      "precio_unitario": 19.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FARPOINT",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FC 25",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FC 26",
+      "precio_unitario": 38.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 18,
+      "nombre": "FC 27",
+      "precio_unitario": 50.0,
+      "precio_total": 900.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FINAL FANTASY XIV  COMPLETA EDICION",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FINAL FANTASY XV",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FINAL FANTISI VII CRISIS CORE  REUNION",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FIVE NIGHTS AT FREDDYS CORE COLLECTION",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FIVE NIGHTS AT FREDDYS HELP WANTED",
+      "precio_unitario": 21.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FIVE NIGHTS AT FREDDYS SECURITY BREACH",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FORMULA 2017",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FORMULA 2018",
+      "precio_unitario": 30.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FORMULA 2020",
+      "precio_unitario": 30.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FORMULA 2021",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FORMULA 2023",
+      "precio_unitario": 25.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FORTNITE ANIME",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "GANG BEASTS",
+      "precio_unitario": 18.0,
+      "precio_total": 72.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "GHOST OF TSUSHIMA",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "GHOST RECON WILDLANDS",
+      "precio_unitario": 18.0,
+      "precio_total": 54.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "GHOST TSUSHIMA EDICION DIRECTORIO",
+      "precio_unitario": 31.0,
+      "precio_total": 62.0
+    },
+    {
+      "cantidad": 8,
+      "nombre": "GOD OF WAR 3",
+      "precio_unitario": 19.0,
+      "precio_total": 152.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "GOD OF WAR 4",
+      "precio_unitario": 19.0,
+      "precio_total": 95.0
+    },
+    {
+      "cantidad": 7,
+      "nombre": "GOD OF WAR RAGNAROCK AMER.",
+      "precio_unitario": 25.0,
+      "precio_total": 175.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "GRAN TURISMO 7",
+      "precio_unitario": 28.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 18,
+      "nombre": "GTA V  PREMIUM EDITION",
+      "precio_unitario": 20.0,
+      "precio_total": 360.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "GTA TRYLOGIA AMERICANO",
+      "precio_unitario": 23.0,
+      "precio_total": 69.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HADES",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "HITMAN 2",
+      "precio_unitario": 24.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "HITMAN 3",
+      "precio_unitario": 24.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "HITMAN DEFINITEVE EDITION",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "HOGWARTS LEGACY",
+      "precio_unitario": 24.0,
+      "precio_total": 48.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HOLLOW KNIGHT",
+      "precio_unitario": 26.0,
+      "precio_total": 26.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HORIZON ZERO DAWN",
+      "precio_unitario": 18.0,
+      "precio_total": 18.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "HORIZON ZERO DAWN EDICON COMPLETA",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "INFAMOUS SECOND SON",
+      "precio_unitario": 15.0,
+      "precio_total": 45.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "INJUSTE ULTIMATE EDITION",
+      "precio_unitario": 18.0,
+      "precio_total": 18.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "INJUSTICE 2 LEGENDARY",
+      "precio_unitario": 20.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "IT TAKES TWO",
+      "precio_unitario": 29.0,
+      "precio_total": 87.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "J- STARS VICTORY",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "JUST CAUSE 4",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2017",
+      "precio_unitario": 19.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "JUST DANCE 2020",
+      "precio_unitario": 19.0,
+      "precio_total": 19.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2022",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "KILLZONE SHADOW FALL",
+      "precio_unitario": 22.0,
+      "precio_total": 66.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "KINGDON  HEARTS  THE STORS SO",
+      "precio_unitario": 23.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 10,
+      "nombre": "KINGDON HEARTS 3",
+      "precio_unitario": 19.0,
+      "precio_total": 190.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LEGO BATMAN BEYON 3",
+      "precio_unitario": 17.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO BRAWLS",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LEGO CITY",
+      "precio_unitario": 18.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO GLI INCREDIBILI LOS INCREIBLES",
+      "precio_unitario": 18.0,
+      "precio_total": 18.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LEGO HARRY POTRET  COLECCIÓN",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LEGO MARVEL COLLECTION",
+      "precio_unitario": 18.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO NINJAGO",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LEGO STAR WARS THE SKYWALKERS",
+      "precio_unitario": 18.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO VIDEO GAME",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO WORLDS",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LIES OF P",
+      "precio_unitario": 42.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LIFE STRANGE 2",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LITLE NIGHTMARES 2",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MAFIA 3",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MARVEL AVENGERS",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARVEL GUARDIANES DE LA GALAXIA",
+      "precio_unitario": 30.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MARVEL IRON MAN VR",
+      "precio_unitario": 30.0,
+      "precio_total": 90.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MARVEL VS CAPCOM  INFINITE",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MARVEL VS CAPCOM FIGHTING ARCADE CLASSIC",
+      "precio_unitario": 41.0,
+      "precio_total": 82.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "MASS EFFECT ANDROMEDA",
+      "precio_unitario": 20.0,
+      "precio_total": 80.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MEDIEVIL",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MEGAMAN 1 Y 2",
+      "precio_unitario": 28.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MEGAMAN 11",
+      "precio_unitario": 25.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "METAL GEAR SOLID 5",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 45,
+      "nombre": "METRO EXODUS",
+      "precio_unitario": 20.0,
+      "precio_total": 900.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "METRO REDUX",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MINECRAFT AMER.",
+      "precio_unitario": 30.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MINECRAFT LEGENDS",
+      "precio_unitario": 37.0,
+      "precio_total": 74.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MIRRORS EDGE CATALYST",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "MONSTER HUNTER ICEBORNE MASTER EDITION",
+      "precio_unitario": 26.0,
+      "precio_total": 52.0
+    },
+    {
+      "cantidad": 9,
+      "nombre": "MORTAL KOMBAT 11 ULTIMATE",
+      "precio_unitario": 17.0,
+      "precio_total": 153.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MORTAL KOMBAT XL",
+      "precio_unitario": 17.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MORTLA KOMBAT 11",
+      "precio_unitario": 19.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MOTO GP 17",
+      "precio_unitario": 19.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MOTO GP 18",
+      "precio_unitario": 19.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "MX VS ATV ALL OUT 2020 PRO NATIONALS EDITION",
+      "precio_unitario": 17.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MY PEPA PIG",
+      "precio_unitario": 19.0,
+      "precio_total": 19.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NARUTO BORUTO COLLECTION",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "NARUTO SHIPUDEN STRONK 4",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "NARUTO ULTIMATE TRIOLOGIA",
+      "precio_unitario": 24.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "NBA 2K 20",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "NEED FOR SPEED  HOT PURSUIT",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NEED FOR SPEED PAY BACK",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "NEED FOR SPEED REPLICANT",
+      "precio_unitario": 28.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "NEED FOR SPEED RIVALS",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "NHL 19",
+      "precio_unitario": 10.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "NI NO KUNI 2",
+      "precio_unitario": 25.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "NIER AUTOMATA GOTY",
+      "precio_unitario": 21.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "NIER REPLICAN",
+      "precio_unitario": 27.0,
+      "precio_total": 108.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "NIKELODEON KART RACERS",
+      "precio_unitario": 25.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "NIOH 2",
+      "precio_unitario": 19.0,
+      "precio_total": 57.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "ONE PIECE WORLD SEEKER",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "OUTER WORLDS",
+      "precio_unitario": 35.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "OVERCOOKED 1 Y 2",
+      "precio_unitario": 21.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "OVERCOOKED ALL YOU CAN EAT",
+      "precio_unitario": 21.0,
+      "precio_total": 42.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PARADISE REMASTER",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PAST CURE",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "PAW PATROL",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "PLANTAS VS ZOMBIES  BATTLE FOR NIGHTBOR",
+      "precio_unitario": 21.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "PLAYERRUNKNO BATTLEGROUDS",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAYSTATION VR DEMO DISC",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "PREY",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "PRINCE OF PERSIA",
+      "precio_unitario": 38.0,
+      "precio_total": 76.0
+    },
+    {
+      "cantidad": 14,
+      "nombre": "PROJECT CARS 3",
+      "precio_unitario": 22.0,
+      "precio_total": 308.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PROJECT CARS 4",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "RATCHET CLANK",
+      "precio_unitario": 19.0,
+      "precio_total": 76.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "RAYMAN LEYEND",
+      "precio_unitario": 19.0,
+      "precio_total": 57.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "RED DEAD REDEMTION 1",
+      "precio_unitario": 23.0,
+      "precio_total": 138.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "RED DEAD REDEMTION 2",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "RESIDENT EVIL ORIGINS COLLECTION",
+      "precio_unitario": 18.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "RESIDEN EVIL 2 REMAKE",
+      "precio_unitario": 22.0,
+      "precio_total": 66.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "RESIDEN EVIL 3 REMAKE",
+      "precio_unitario": 21.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RESIDEN EVIL 4",
+      "precio_unitario": 18.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "RESIDEN EVIL 4 REMAKE",
+      "precio_unitario": 22.0,
+      "precio_total": 110.0
+    },
+    {
+      "cantidad": 8,
+      "nombre": "RESIDEN EVIL 5",
+      "precio_unitario": 17.0,
+      "precio_total": 136.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "RESIDEN EVIL 6",
+      "precio_unitario": 17.0,
+      "precio_total": 68.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "RESIDENT EVIL 7 BIOHAZARD GOLD EDITION",
+      "precio_unitario": 22.0,
+      "precio_total": 66.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RESIDENT EVIL 2 REVELATION",
+      "precio_unitario": 18.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RESIDENT EVIL 8 VILLAGE",
+      "precio_unitario": 19.0,
+      "precio_total": 38.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RESIDENT EVIL 8 VILLAGE GOLD EDICITION",
+      "precio_unitario": 27.0,
+      "precio_total": 54.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SACKBOY",
+      "precio_unitario": 26.0,
+      "precio_total": 52.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SHADOW OF THE TOMB RAIDER",
+      "precio_unitario": 21.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "SHADOW OF WAR",
+      "precio_unitario": 21.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SHADOW TACTICS",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SIMS 4",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SLIME RANCHER",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC FORCE",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SONIC FRONTIER",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC MANIA",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC RACING CROSSWORLD",
+      "precio_unitario": 52.0,
+      "precio_total": 52.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SONIC SHADOW GENERACION",
+      "precio_unitario": 40.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SPIDER MAN MILES MORALES",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SPIDERMAN ED. JUEGO DEL AÑO",
+      "precio_unitario": 36.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SPYRO",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STAR WARS JEDY FALLEN ORDER",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "STARWARS SQUADRONS",
+      "precio_unitario": 15.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STORMBLOOD FINAL FANTASY XIV",
+      "precio_unitario": 15.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STRAY",
+      "precio_unitario": 23.0,
+      "precio_total": 46.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "STREET FIGHTER 30 ANIVERSARIO",
+      "precio_unitario": 23.0,
+      "precio_total": 69.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STREET FIGHTER 5 ARCADE EDITION",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STREET FIGHTER 5 CHAMPION EDITION",
+      "precio_unitario": 25.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "STREET FIGHTER 6",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STREET FIGHTER 6 YEARS 1-2 FIGHTERS EDITION",
+      "precio_unitario": 49.0,
+      "precio_total": 49.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STREETR FIGHTER 4  OF RAGE",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SUPER BOMBER 2",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SUPERBEAT  XONIC",
+      "precio_unitario": 25.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 8,
+      "nombre": "TEKKEN 7",
+      "precio_unitario": 17.0,
+      "precio_total": 136.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TERMINATOR  RISISTERNCIA",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "THE  PERSISTENCE",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "THE CALISTO PROTOCOL",
+      "precio_unitario": 36.0,
+      "precio_total": 180.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "THE COWABUNGA TORTUGAS NINJA",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "THE CREW 2",
+      "precio_unitario": 30.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "THE ELDER SCROLLS  GOL EDITION",
+      "precio_unitario": 22.0,
+      "precio_total": 66.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "THE EVIL WITHIN 2",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "THE KING OF FIGHTERS XV",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "THE LAS OF US PARTE 1",
+      "precio_unitario": 18.0,
+      "precio_total": 90.0
+    },
+    {
+      "cantidad": 7,
+      "nombre": "THE LAS OF US PARTE 2",
+      "precio_unitario": 27.0,
+      "precio_total": 189.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "THE PHATOM PAIN METAL GEART SOLID V",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "THE SURGE",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "THE TECHNOMANCER",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "THE WALKING DEAD DEFINITIVE SERIES",
+      "precio_unitario": 16.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "THE WITCHER  WILL HUNT",
+      "precio_unitario": 24.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "TOM CLANCYST RAIBOWNS SIX",
+      "precio_unitario": 21.0,
+      "precio_total": 126.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TOMB RAIDER REMASTER IV - V - VI",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "TOMB RAIDER RISE OF THE 20 YEAR CELEBRATION",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "TONY HANK PRO SKATER 1 Y 2",
+      "precio_unitario": 35.0,
+      "precio_total": 175.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TOY SOLDIERS",
+      "precio_unitario": 15.0,
+      "precio_total": 15.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "TRANFORMERS BATTLEGROUNDS",
+      "precio_unitario": 20.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "UNCHARTED COLLECTION",
+      "precio_unitario": 18.0,
+      "precio_total": 18.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "UNTIL DAW RUSH OF BLOOD",
+      "precio_unitario": 12.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "UTIL DANW",
+      "precio_unitario": 14.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "VALENTINO ROSSI THE GAME",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "VALKYRIE",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "W2K 24",
+      "precio_unitario": 28.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "W2K25",
+      "precio_unitario": 29.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 2,
+      "nombre": "WATCH DOGS",
+      "precio_unitario": 17.0,
+      "precio_total": 34.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "WATCH DOGS 2",
+      "precio_unitario": 19.0,
+      "precio_total": 38.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "WATCH DOGS LEGION",
+      "precio_unitario": 29.0,
+      "precio_total": 87.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "WOLTENSTEIN YOUNG BLOOD DELUXE EDITION",
+      "precio_unitario": 15.0,
+      "precio_total": 15.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "WORD WAR Z AFTHERMAN",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    }
+  ],
+  "PS5": [
+    {
+      "cantidad": 0,
+      "nombre": "A PLAGUE TALE REQUIEM",
+      "precio_unitario": 30.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ALAN WAKE 2 DELUX EDICION",
+      "precio_unitario": 37.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ARK SURVIVAL ASCENDED",
+      "precio_unitario": 34.0,
+      "precio_total": 34.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "ASSASINS CREED BLACK FLAG RESYNCED",
+      "precio_unitario": 53.0,
+      "precio_total": 265.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ASSASSINS CREDD SWADOWS",
+      "precio_unitario": 52.0,
+      "precio_total": 52.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ASSASSINS CREED MIRAGE",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ASSASSINS CREED VALHALLA",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "ASTRO BOT",
+      "precio_unitario": 43.0,
+      "precio_total": 129.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BABYLONS FALL",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BALATRO",
+      "precio_unitario": 32.0,
+      "precio_total": 32.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BATTLEFIELD 6",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "BENDY",
+      "precio_unitario": 41.0,
+      "precio_total": 41.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CASTLEVANIA BELMONTS CURSE",
+      "precio_unitario": 36.0,
+      "precio_total": 72.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CALL OF DUTY BLACK OPS 7",
+      "precio_unitario": 34.0,
+      "precio_total": 68.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CALL OF DUTY BLACK OPS COLD WAR",
+      "precio_unitario": 33.0,
+      "precio_total": 33.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CALL OF DUTY MODER WARFARE 2 AMERICANO",
+      "precio_unitario": 30.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CALL OF DUTY MODER WARFARE 3",
+      "precio_unitario": 34.0,
+      "precio_total": 34.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CALL OF DUTY MODERN WARFARE 4",
+      "precio_unitario": 53.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CONTROL RESONANT",
+      "precio_unitario": 55.0,
+      "precio_total": 55.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CODE VEIN 2",
+      "precio_unitario": 54.0,
+      "precio_total": 108.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CONTROL ULTIMATE EDITICION",
+      "precio_unitario": 26.0,
+      "precio_total": 26.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "CRASH RUMBLE",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "CRIMSON DESERT",
+      "precio_unitario": 63.0,
+      "precio_total": 189.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CRONOS THE NEW DAWN",
+      "precio_unitario": 31.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "CYBERPUNK ULTIMATE EDICION",
+      "precio_unitario": 39.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "CAPITAN TSUBASA 2 WORLD FIGHTERS",
+      "precio_unitario": 54.0,
+      "precio_total": 108.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DAWNWALKER TAPA METALICA",
+      "precio_unitario": 64.0,
+      "precio_total": 64.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEAD ISLAND 2 DAY ONE EDITION",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEAD SPACE",
+      "precio_unitario": 27.0,
+      "precio_total": 27.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEATH STRANDING 2 ON THE BEACH",
+      "precio_unitario": 50.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DEATH STRANDING DIRECTOR CUT",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEMON SLAYER 2 THE HINOKANI CHRONICLES",
+      "precio_unitario": 46.0,
+      "precio_total": 46.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DEMON SOLUS",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DEVIL MAY CRY 5  SPECIAL EDICION",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DIABLO 4",
+      "precio_unitario": 49.0,
+      "precio_total": 49.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DOOM 1 Y 2",
+      "precio_unitario": 38.0,
+      "precio_total": 38.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DOOM THE DARK AGES",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DRAGON ACE",
+      "precio_unitario": 43.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "DRAGON BALL  XENOVERSE 2",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DRAGON BALL FIGTER Z",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DRAGON BALL KAKAROT",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "DRAGON BALL KAKAROT DIAMA EDITION",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "DRAGON BALL SPARKING ZERO",
+      "precio_unitario": 40.0,
+      "precio_total": 120.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DRAGON DOGMA 2",
+      "precio_unitario": 38.0,
+      "precio_total": 38.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "DYING LIGHT 2",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ELDEN RING AMER",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ELDEN RING EU",
+      "precio_unitario": 36.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ELDEN RING NIGHTREIGN",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "ELDEN RING NIGHTREIGN  EDITION DELUXE",
+      "precio_unitario": 48.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "EXPEDITION 33 AMER.",
+      "precio_unitario": 46.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "EXPEDITION 33 EU",
+      "precio_unitario": 42.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FARCRY 6",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FATAL FRAME 2",
+      "precio_unitario": 53.0,
+      "precio_total": 106.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FC 25",
+      "precio_unitario": 31.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FC 26",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 12,
+      "nombre": "FC 27",
+      "precio_unitario": 50.0,
+      "precio_total": 600.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FINAL FANTASY 7 REMAKE INTERGRADE",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FINAL FANTASY XVI",
+      "precio_unitario": 25.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FIRS LIGTH 007",
+      "precio_unitario": 64.0,
+      "precio_total": 128.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FIVE NIGHTS AT FREDDYS INTO PIT",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FIVE NIGHTS AT FREDDYS SEGURITY BREACH",
+      "precio_unitario": 32.0,
+      "precio_total": 32.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FORMULA 2021",
+      "precio_unitario": 33.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FORMULA 2023",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "FORMULA 2024",
+      "precio_unitario": 42.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "FORMULA 2025",
+      "precio_unitario": 36.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "FORNITE COD",
+      "precio_unitario": 23.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 0,
+      "nombre": "GEARS OF WAR RELDADED",
+      "precio_unitario": 38.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "GHOST OF YOTEI",
+      "precio_unitario": 59.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "GHOST OF YOTEI COMPLETE EDITION",
+      "precio_unitario": 61.0,
+      "precio_total": 122.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "GHOST TSUSHIMA DIRECTOR",
+      "precio_unitario": 36.0,
+      "precio_total": 72.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "GOD OF WAR RAGNAROCK",
+      "precio_unitario": 34.0,
+      "precio_total": 204.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "GODFALL",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "GOTHAM KINGHTS",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "GRAN TURISMO 7",
+      "precio_unitario": 36.0,
+      "precio_total": 108.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "GTA V",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 49,
+      "nombre": "GTA VI",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "GUARDIANES DE LA GALAXIA",
+      "precio_unitario": 29.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HADES",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "HELLRAISER REVIVAL CLIVE BARKERS",
+      "precio_unitario": 38.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HELLDIVERS 2",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "HALO CAMPAIGN EVOLVED",
+      "precio_unitario": 58.0,
+      "precio_total": 232.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HITMAN WORLD OF ASSASSINATION",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "HOGWARTS LEGACY",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HORIZON FORBIDDEN WEST  COMPLETO",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "HORIZON ZERO DAWN REMASTERED",
+      "precio_unitario": 31.0,
+      "precio_total": 31.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "INVENCIBLE VS",
+      "precio_unitario": 39.0,
+      "precio_total": 39.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "INDIANA JONES",
+      "precio_unitario": 59.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "INMORTAL FENIX RISING",
+      "precio_unitario": 45.0,
+      "precio_total": 45.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "JURASSIC WORLD  EVOLUTION 2",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "JUST DANCE 2021",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "JUST DANCE 2023 EDICION",
+      "precio_unitario": 16.0,
+      "precio_total": 16.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2024",
+      "precio_unitario": 40.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "JUST DANCE 2025",
+      "precio_unitario": 44.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "KINGDOM HEARTS COLLECTION 1-3",
+      "precio_unitario": 67.0,
+      "precio_total": 268.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LEGO  HORIZON AVENTURA",
+      "precio_unitario": 38.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LEGO 2K DRIVE",
+      "precio_unitario": 19.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO BRAWLS",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LEGO STAR WAR SKYWALKER",
+      "precio_unitario": 21.0,
+      "precio_total": 21.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LEGO HARRY POTERR COLLECTION",
+      "precio_unitario": 26.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "LEGO STAR WAR THE LA SAGA",
+      "precio_unitario": 33.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "LIES OF P",
+      "precio_unitario": 41.0,
+      "precio_total": 82.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "LIFE IS STRANGE  COLECCIÓN",
+      "precio_unitario": 52.0,
+      "precio_total": 208.0
+    },
+    {
+      "cantidad": 17,
+      "nombre": "LIFE IS STRANGE  REUNION",
+      "precio_unitario": 42.0,
+      "precio_total": 714.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LITTE NIGHTMARES 2",
+      "precio_unitario": 24.0,
+      "precio_total": 24.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LITTE NIGHTMARES 3",
+      "precio_unitario": 32.0,
+      "precio_total": 32.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LORDS OF THE FALLEN DELUXE EDITION",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "LOST JUDMENT",
+      "precio_unitario": 33.0,
+      "precio_total": 33.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MARVEL TOKON FIGHTING SOULS",
+      "precio_unitario": 56.0,
+      "precio_total": 56.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MAFIA THE OLD COUNTRY",
+      "precio_unitario": 46.0,
+      "precio_total": 46.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "METAL GEAR SOLID 5 SNAKE EATER",
+      "precio_unitario": 53.0,
+      "precio_total": 212.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "METAL GEAR SOLIS 1 MASTER",
+      "precio_unitario": 31.0,
+      "precio_total": 93.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "METAL SLUG TACTICS",
+      "precio_unitario": 36.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "MINECRAFT",
+      "precio_unitario": 31.0,
+      "precio_total": 93.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MINECRAFT LEGEN",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MORTLA KOMBAT 1",
+      "precio_unitario": 29.0,
+      "precio_total": 29.0
+    },
+    {
+      "cantidad": 5,
+      "nombre": "MORTLA KOMBAT 11 ULTIMATE",
+      "precio_unitario": 21.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MOSTER HUNTER WILS",
+      "precio_unitario": 33.0,
+      "precio_total": 33.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MOUSE PI FOR HIRE",
+      "precio_unitario": 33.0,
+      "precio_total": 33.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "MY HERO ACADEMIA ALL JUSTICE",
+      "precio_unitario": 50.0,
+      "precio_total": 50.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "NARUTO X BORUTO CONNECTIONS",
+      "precio_unitario": 21.0,
+      "precio_total": 42.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NBA 2021",
+      "precio_unitario": 27.0,
+      "precio_total": 27.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NBA 2024",
+      "precio_unitario": 41.0,
+      "precio_total": 41.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "NBA 2K 2026",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NINJA GAIDEN 4",
+      "precio_unitario": 46.0,
+      "precio_total": 46.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NIOH 3 ESTÁNDAR",
+      "precio_unitario": 34.0,
+      "precio_total": 34.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "NIOH 3  STEELBOOK LAUNCH EDITION",
+      "precio_unitario": 58.0,
+      "precio_total": 174.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "NIOH COLLECTION",
+      "precio_unitario": 29.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "NO MANS SKY",
+      "precio_unitario": 22.0,
+      "precio_total": 44.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "ONIMUSHA WAY OF  (TAPA METALICA)",
+      "precio_unitario": 72.0,
+      "precio_total": 144.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ONE PIECE ODYSSEY",
+      "precio_unitario": 25.0,
+      "precio_total": 25.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "OVERCOOKED ALL YOU CAN EAT",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PAW PATROL",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PAW PATROL  MIGHTH PUTS",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "PERSONA 3 RELOAD",
+      "precio_unitario": 33.0,
+      "precio_total": 66.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PERSONA 5 ROYAL",
+      "precio_unitario": 29.0,
+      "precio_total": 29.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "POPPY PLAYTIME",
+      "precio_unitario": 31.0,
+      "precio_total": 93.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "PRAGMATA",
+      "precio_unitario": 46.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "PRINCIPE DE PERSA",
+      "precio_unitario": 47.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RED DEAD REDEMPTION 1",
+      "precio_unitario": 32.0,
+      "precio_total": 64.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "RAYMAN 30TH ANNIVERSARY",
+      "precio_unitario": 31.0,
+      "precio_total": 93.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "REANIMAL",
+      "precio_unitario": 39.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "RESIDENT EVIL 2",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "RESIDENT EVIL 3",
+      "precio_unitario": 24.0,
+      "precio_total": 72.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "RESIDENT EVIL 4  GOL EDITION",
+      "precio_unitario": 34.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "RESIDENT EVIL 4 RAMAKE",
+      "precio_unitario": 23.0,
+      "precio_total": 23.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RESIDENT EVIL 7 BIOHAZARD GOLD EDITION",
+      "precio_unitario": 20.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RESIDENT EVIL VILLAGE",
+      "precio_unitario": 18.0,
+      "precio_total": 36.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "RESIDENT EVIL VILLAGE GOLD EDITION",
+      "precio_unitario": 25.0,
+      "precio_total": 150.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "RESIDENT EVIL 9 REQUIM",
+      "precio_unitario": 65.0,
+      "precio_total": 390.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "RESONANCE  A PLAGUE TALE LEGASY",
+      "precio_unitario": 53.0,
+      "precio_total": 159.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "RETURNAL",
+      "precio_unitario": 28.0,
+      "precio_total": 56.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "ROBOCOP ROGUE CITY",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SACKBOY AVENTURA",
+      "precio_unitario": 29.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SAROS",
+      "precio_unitario": 60.0,
+      "precio_total": 120.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SILEN HILL 2",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SILENT HIL F",
+      "precio_unitario": 29.0,
+      "precio_total": 58.0
+    },
+    {
+      "cantidad": 8,
+      "nombre": "SILEN HILL TOWNFALL",
+      "precio_unitario": 43.0,
+      "precio_total": 344.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "SNIPER ELITE 5",
+      "precio_unitario": 28.0,
+      "precio_total": 112.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SNIPER ELITE RESISTANCE DELUXE EDICION",
+      "precio_unitario": 49.0,
+      "precio_total": 98.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SNOOPY AND THE GREAT",
+      "precio_unitario": 36.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SONIC FRONTIER",
+      "precio_unitario": 29.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC RAGING CROS WORLD",
+      "precio_unitario": 60.0,
+      "precio_total": 60.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC SUPER STAR",
+      "precio_unitario": 26.0,
+      "precio_total": 26.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SONIC X SHADOWS GENERATION",
+      "precio_unitario": 31.0,
+      "precio_total": 31.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SPACE MARINE",
+      "precio_unitario": 35.0,
+      "precio_total": 35.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SPIDER MAN 2",
+      "precio_unitario": 41.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SPIDERMAN MILES MORALES",
+      "precio_unitario": 26.0,
+      "precio_total": 52.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "SPIDERMAN MILES MORALES ULTIMATE",
+      "precio_unitario": 39.0,
+      "precio_total": 117.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "SPLIT FICTION",
+      "precio_unitario": 43.0,
+      "precio_total": 43.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "SPONGEBOB SQUAREPANT TITAN OF THE TIDE",
+      "precio_unitario": 37.0,
+      "precio_total": 74.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "SQUIA SUISIDA",
+      "precio_unitario": 45.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "STAR WARD GALACTIC RACERS",
+      "precio_unitario": 54.0,
+      "precio_total": 162.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STAR WARS JEDI SURVIVOR AM",
+      "precio_unitario": 34.0,
+      "precio_total": 68.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STAR WARS OUTLAWS EDICION LIMITADA",
+      "precio_unitario": 34.0,
+      "precio_total": 34.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "STAR WARS QUITLAW",
+      "precio_unitario": 42.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "STARFIELD",
+      "precio_unitario": 44.0,
+      "precio_total": 88.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "STELLAR BLADE",
+      "precio_unitario": 45.0,
+      "precio_total": 180.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "STRAY",
+      "precio_unitario": 22.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "STREET FIGTER 6",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TEKKEN 8",
+      "precio_unitario": 27.0,
+      "precio_total": null
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TERMINATOR 2D NO FATE",
+      "precio_unitario": 40.0,
+      "precio_total": 40.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "TERMINATOR 2D NO FATE COLLECTOR",
+      "precio_unitario": 120.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "THE CALISTO PROTOCOLL",
+      "precio_unitario": 21.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "THE HOUSE OF THE DEAD 2 REMAKE INFECT",
+      "precio_unitario": 37.0,
+      "precio_total": 37.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "THE KING OF FIGHTERS  XV",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "THE LAST OF US PARTE 1",
+      "precio_unitario": 35.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "THE LAST OF US PARTE 2 AMERICANO",
+      "precio_unitario": 35.0,
+      "precio_total": 70.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "THE OUTER WORLDS 2",
+      "precio_unitario": 53.0,
+      "precio_total": 106.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TOMB RAIDER I - III REMASTERD",
+      "precio_unitario": 30.0,
+      "precio_total": 30.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TOMB RAIDER IV - VI - VI",
+      "precio_unitario": 29.0,
+      "precio_total": 29.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "TORTUGAS  CAWABUNGA",
+      "precio_unitario": 40.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "TUROK TRIOLOGIA",
+      "precio_unitario": 38.0,
+      "precio_total": 38.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "UFC 5",
+      "precio_unitario": 27.0,
+      "precio_total": 54.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "ULTIL DAWN",
+      "precio_unitario": 35.0,
+      "precio_total": 105.0
+    },
+    {
+      "cantidad": 3,
+      "nombre": "UNCHARTED COLECCIÓN",
+      "precio_unitario": 28.0,
+      "precio_total": 84.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "W2K25",
+      "precio_unitario": 22.0,
+      "precio_total": 22.0
+    },
+    {
+      "cantidad": 6,
+      "nombre": "W2K26",
+      "precio_unitario": 63.0,
+      "precio_total": 378.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "WATCH DOGS LEGION",
+      "precio_unitario": 20.0,
+      "precio_total": 20.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "WORLD WARZ   Z ALTERMANTH",
+      "precio_unitario": 28.0,
+      "precio_total": 56.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "WOLVERINE",
+      "precio_unitario": 63.0,
+      "precio_total": 252.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "(WRC) 23",
+      "precio_unitario": 28.0,
+      "precio_total": 28.0
+    },
+    {
+      "cantidad": 2,
+      "nombre": "WRC10",
+      "precio_unitario": 21.0,
+      "precio_total": 42.0
+    },
+    {
+      "cantidad": 0,
+      "nombre": "WUKONG",
+      "precio_unitario": 51.0,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "YAKUSA 0 DIRECTORS CUT",
+      "precio_unitario": 48.0,
+      "precio_total": 48.0
+    }
+  ],
+  "ACCESORIOS": [],
+  "CONSOLAS": [
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 5 PRO",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 5 SLIM C/LECTOR S/JUEGO",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 5 SLIM C/LECTOR + ASTROBOT Y GRAN TURISMO 7",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 5 SLIM DIGITAL S/J",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 5 SLIM DIGITAL +  NBA 2K 26",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 5 SLIM DIGITAL + GRAN TURISMO Y ASTROBOT",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAYSTATION PORTAL",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 4 SLIM + GOD OF WAR RAGNAROK",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "AMU PLAY 4  PRO C/B -1TB-TC",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "AMU PLAY 4 SLIM 1TB -TC",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 4,
+      "nombre": "AMU PLAY 4 FAT 1B EDIC CALL OF DUTY BLACK OPS 3 - TC",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "PLAY 3 SUPER SLIM",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "XBOX ONE 1TB + RARE REPLAY, ORI Y GEARS OF WAR ULT EDITION -TC",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "XBOX 360 C/B",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NINTENDO SWITCH 2 S/J",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NINTENDO SWITCH 2 + MARIO KART WORLD",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NINTENDO SWITCH OLED C/NEON",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "NINTENDO 2019",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    },
+    {
+      "cantidad": 1,
+      "nombre": "AMU NINTENDO SWITCH LITE C/A + CHIPEO C/J",
+      "precio_unitario": null,
+      "precio_total": 0.0
+    }
+  ]
+}
